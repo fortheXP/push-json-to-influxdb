@@ -1,0 +1,13 @@
+[
+    {
+        "name": "file1",
+        "type": "man",
+        "status": "Inprogress"
+    },
+    {
+        "name": "file2",
+        "type": "female",
+        "status": "pending"
+    }
+]
+
